@@ -14,3 +14,5 @@ Lecture 1.2: https://github.com/joeyjon123/Ethics19Spring2020/blob/master/Lectur
 Lecture 2.1: https://github.com/joeyjon123/Ethics19Spring2020/blob/master/Lectures/Lecture%202.1.md
 
 Lecture 2.2: https://github.com/joeyjon123/Ethics19Spring2020/blob/master/Lectures/Lecture%202.2.md
+
+Lecture 2.3: https://github.com/joeyjon123/Ethics19Spring2020/blob/master/Lectures/Lecture%202.3.md
