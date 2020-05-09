@@ -1,0 +1,15 @@
+Lecture 3.1
+
+![](https://github.com/joeyjon123/Ethics19Spring2020/blob/master/3.1.01%20Ethical%20Methods%20Decision%20Tree.png)
+![](https://github.com/joeyjon123/Ethics19Spring2020/blob/master/3.1.02%20Teleological%20Ethics.png)
+![](https://github.com/joeyjon123/Ethics19Spring2020/blob/master/3.1.03%20Consequentialism.png)
+![](https://github.com/joeyjon123/Ethics19Spring2020/blob/master/3.1.04%20What%20do%20Utilitarians%20Believe.png)
+![](https://github.com/joeyjon123/Ethics19Spring2020/blob/master/3.1.05%20Ethical%20Inventory.png)
+![](https://github.com/joeyjon123/Ethics19Spring2020/blob/master/3.1.06%20Founders%20of%20Utilitarianism.png)
+![](https://github.com/joeyjon123/Ethics19Spring2020/blob/master/3.1.07%20Anthropological%20Basis%20for%20Utilitarianism.png)
+![](https://github.com/joeyjon123/Ethics19Spring2020/blob/master/3.1.08%20Bentham's%20Anthropology.png)
+![](https://github.com/joeyjon123/Ethics19Spring2020/blob/master/3.1.09%20Bentham's%20Philosophy.png)
+![](https://github.com/joeyjon123/Ethics19Spring2020/blob/master/3.1.10%20Definition%20of%20Utilitarianism.png)
+![](https://github.com/joeyjon123/Ethics19Spring2020/blob/master/3.1.11%20The%20Measure%20of%20an%20Act.png)
+![](https://github.com/joeyjon123/Ethics19Spring2020/blob/master/3.1.12%20Qualities%20of%20Utilitarianism.png)
+![](https://github.com/joeyjon123/Ethics19Spring2020/blob/master/3.1.13%20Purpose%20of%20Oral%20Exams.png)
