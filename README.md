@@ -1,7 +1,7 @@
 # Ethics19Spring2020
 Notes for Ethics 19 - Ethics in Technology for Spring 2020.
 
-```
+`
 Lecture 0.2: https://github.com/joeyjon123/Ethics19Spring2020/blob/master/Lectures/Lecture%200.2.md
 
 Lecture 0.3: https://github.com/joeyjon123/Ethics19Spring2020/blob/master/Lectures/Lecture%200.3.md
@@ -21,4 +21,4 @@ Lecture 2.3: https://github.com/joeyjon123/Ethics19Spring2020/blob/master/Lectur
 Lecture 3.1: https://github.com/joeyjon123/Ethics19Spring2020/blob/master/Lectures/Lecture%203.1.md
 
 Lecture 3.2: https://github.com/joeyjon123/Ethics19Spring2020/blob/master/Lectures/Lecture%203.2.md
-```
+`
