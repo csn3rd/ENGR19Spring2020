@@ -1,4 +1,5 @@
-Lecture 0.4
+## Lecture 0.4
+
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/0.4.01%20Ethical%20Inventory.png)
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/0.4.02%202%20Types%20of%20Ethical%20Relativism.png)
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/0.4.03%20Subjectivism.png)
