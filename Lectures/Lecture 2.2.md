@@ -1,4 +1,5 @@
-Lecture 2.2
+## Lecture 2.2
+
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/2.2.01%20Overview%20of%20Kantian%20Ethics.png)
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/2.2.02%20Maxims.png)
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/2.2.03%20Maxims%20Example%201.png)
