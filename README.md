@@ -11,7 +11,7 @@ Lecture 1.1: https://github.com/csn3rd/Ethics19Spring2020/blob/master/Lectures/L
 
 Lecture 1.2: https://github.com/csn3rd/Ethics19Spring2020/blob/master/Lectures/Lecture%201.2.md
 
-Lecture 2.1: https://github.com/joeyjon123/Ethics19Spring2020/blob/master/Lectures/Lecture%202.1.md
+Lecture 2.1: https://github.com/csn3rd/Ethics19Spring2020/blob/master/Lectures/Lecture%202.1.md
 
 Lecture 2.2: https://github.com/joeyjon123/Ethics19Spring2020/blob/master/Lectures/Lecture%202.2.md
 
