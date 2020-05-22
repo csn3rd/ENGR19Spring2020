@@ -1,4 +1,5 @@
-Lecture 5.1
+## Lecture 5.1
+
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/5.1.01%20Issues%20with%20Consequentialism%201.png)
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/5.1.02%20Issues%20with%20Consequentialism%202.png)
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/5.1.03%20Problems%20with%20Simple%20Deontologies%201.png)
