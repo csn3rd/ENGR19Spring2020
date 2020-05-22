@@ -1,4 +1,5 @@
-Lecture 1.2
+## Lecture 1.2
+
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/1.2.01%20Tuskegee%20Syphilis%20Experiments.png)
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/1.2.02%20Tuskegee%20Syphilis%20Experiments%202.png)
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/1.2.03%20Negative%20Rights.png)
