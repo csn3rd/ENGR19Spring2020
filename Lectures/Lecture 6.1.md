@@ -1,4 +1,5 @@
-Lecture 6.1
+## Lecture 6.1
+
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/6.1.01%20Paradigm%20Shift.png)
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/6.1.02%20Critique%20of%20Post-Modern%20Relativism%201.png)
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/6.1.03%20Critique%20of%20Post-Modern%20Relativism%202.png)
