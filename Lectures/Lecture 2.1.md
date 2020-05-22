@@ -1,4 +1,5 @@
-Lecture 2.1
+## Lecture 2.1
+
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/2.1.01%20Immanuel%20Kant.png)
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/2.1.02%20Historical%20Location%20of%20Kant.png)
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/2.1.03%20Overview%20of%20Kantian%20Ethics.png)
