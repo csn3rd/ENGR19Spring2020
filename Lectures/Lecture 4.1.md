@@ -1,4 +1,5 @@
-Lecture 4.1
+## Lecture 4.1
+
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/4.1.01%20Utilitarianism%201.0.png)
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/4.1.02%20Issues%20in%20the%20Beta%20Test%20of%20Utilitarianism%201.png)
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/4.1.03%20Issues%20in%20the%20Beta%20Test%20of%20Utilitarianism%202.png)
