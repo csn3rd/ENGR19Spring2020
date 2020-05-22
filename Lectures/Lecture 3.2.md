@@ -1,4 +1,5 @@
-Lecture 3.2
+## Lecture 3.2
+
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/3.2.01%20Ethical%20Methods%20Decision%20Tree.png)
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/3.2.02%20Deontology%20vs%20Consequentialism.png)
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/3.2.03%20Issues%20in%20the%20Beta%20Test%20of%20Utilitarianism.png)
