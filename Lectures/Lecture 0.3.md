@@ -1,4 +1,5 @@
-Lecture 0.3
+## Lecture 0.3
+
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/0.3.01%20Paradigmatic%20Thinking.png)
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/0.3.02%20Paradigmatic%20Thinking%202.png)
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/0.3.03%20Paradigmatic%20Thinking%203.png)
