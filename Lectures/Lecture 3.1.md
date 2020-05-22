@@ -1,4 +1,5 @@
-Lecture 3.1
+## Lecture 3.1
+
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/3.1.01%20Ethical%20Methods%20Decision%20Tree.png)
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/3.1.02%20Teleological%20Ethics.png)
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/3.1.03%20Consequentialism.png)
