@@ -1,4 +1,5 @@
-Lecture 1.1
+## Lecture 1.1
+
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/1.1.01%20What%20Do%20Deontologists%20Believe.png)
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/1.1.02%20Ethical%20Inventory.png)
 ![](https://github.com/csn3rd/Ethics19Spring2020/blob/master/1.1.03%20Deontology.png)
