@@ -26,3 +26,5 @@ Lecture 4.1: https://github.com/csn3rd/Ethics19Spring2020/blob/master/Lectures/L
 Lecture 5.1: https://github.com/csn3rd/Ethics19Spring2020/blob/master/Lectures/Lecture%205.1.md
 
 Lecture 6.1: https://github.com/csn3rd/Ethics19Spring2020/blob/master/Lectures/Lecture%206.1.md
+
+Lecture 6.2: https://github.com/csn3rd/Ethics19Spring2020/blob/master/Lectures/Lecture%206.2.md
