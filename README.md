@@ -1,4 +1,4 @@
-# Notes for **ENGR 19 - Ethics in Technology** for Spring 2020.
+# Notes for *ENGR 19 - Ethics in Technology* for Spring 2020.
 
 Lecture 0.2: https://github.com/csn3rd/Ethics19Spring2020/blob/master/Lectures/Lecture%200.2.md
 
