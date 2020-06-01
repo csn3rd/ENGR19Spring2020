@@ -14,7 +14,7 @@ Lecture 2.1: https://github.com/csn3rd/ENGR19Spring2020/blob/master/Lectures/Lec
 
 Lecture 2.2: https://github.com/csn3rd/ENGR19Spring2020/blob/master/Lectures/Lecture%202.2.md (Kantianism 2)
 
-Lecture 2.3: https://github.com/csn3rd/ENGR19Spring2020/blob/master/Lectures/Lecture%202.3.md (Kantianism 4)
+Lecture 2.3: https://github.com/csn3rd/ENGR19Spring2020/blob/master/Lectures/Lecture%202.3.md (Kantianism 3)
 
 Lecture 3.1: https://github.com/csn3rd/ENGR19Spring2020/blob/master/Lectures/Lecture%203.1.md (Utilitarianism 1)
 
